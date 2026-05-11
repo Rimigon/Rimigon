@@ -1,16 +1,36 @@
-## Hi there 👋
+ ### Никита Радонов
 
-<!--
-**Rimigon/Rimigon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  Fullstack-разработчик из Московской области. Делаю веб-сервисы и Telegram-ботов на React + TypeScript / Python (FastAPI, Django).
+  Увлекаюсь интеграцией LLM в продуктовые сценарии.
 
-Here are some ideas to get you started:
+  ---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  #### 🛠️ Стек
+
+  **Frontend:** React, TypeScript, Next.js, Redux Toolkit, Tailwind CSS
+  **Backend:** Python, FastAPI, Django, SQLAlchemy, Pydantic
+  **Базы данных:** PostgreSQL, Redis, MySQL
+  **Инфра:** Docker, Nginx, GitHub Actions, Linux (Ubuntu)
+  **AI:** GigaChat, YandexGPT, OpenAI-совместимые API, Ollama (локальные модели), pgvector (RAG)
+  **AI-инструменты:** Claude Code, Cursor, Codex, Qwen Code, opencode
+
+  ---
+
+  #### 🚀 Сейчас работаю над
+
+  - TaskFlow — командный таск-трекер с realtime-обновлениями
+  - Изучаю Kubernetes и MCP-протокол для построения AI-агентов
+
+  ---
+
+  #### 📂 Закреплённые проекты
+
+  Смотрите ниже ⬇️ — там самое интересное.
+
+  ---
+
+  #### 📫 Контакты
+
+  - Telegram: [@your-username](https://t.me/rimigon)
+  - Email: nikita.rad9@gmail.com
+  - HH: [резюме на hh.ru]()
