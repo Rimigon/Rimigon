@@ -59,10 +59,8 @@
 
   ---
 
-  #### 📫 Контакты
+ #### 📫 Контакты
 
-  [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://
-  t.me/rimigon)
-  [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikita.rad
-  9@gmail.com)
-  [![hh.ru](https://img.shields.io/badge/hh.ru-D6001C?style=for-the-badge&logoColor=white)](https://hh.ru/resume/...)
+  [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rimigon) 
+  [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikita.rad9@gmail.com)
+  [![hh.ru](https://img.shields.io/badge/hh.ru-D6001C?style=for-the-badge&logoColor=white)](https://hh.ru/resume/ВАШ_ID)
