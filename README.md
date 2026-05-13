@@ -63,4 +63,4 @@
 
   [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rimigon) 
   [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikita.rad9@gmail.com)
-  [![hh.ru](https://img.shields.io/badge/hh.ru-D6001C?style=for-the-badge&logoColor=white)](https://hh.ru/resume/ВАШ_ID)
+  [![hh.ru]([https://img.shields.io/badge/hh.ru-D6001C?style=for-the-badge&logoColor=white)](https://hh.ru/resume/ВАШ_ID](https://voskresensk.hh.ru/resume/547c88d3ff107b6b4c0039ed1f543437787635))
