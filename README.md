@@ -44,7 +44,6 @@
   ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
   ![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)
   ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-  ![pgvector](https://img.shields.io/badge/pgvector%20RAG-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
   **AI-инструменты в разработке**
 
